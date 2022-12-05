@@ -26,6 +26,7 @@ span{
     font-style: italic;
 }
 a{
-    color: red;
+       color: red;
     text-decoration: none;
+    font-style: italic;
 }
